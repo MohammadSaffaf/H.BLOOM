@@ -1,0 +1,130 @@
+/* H.BLOOM
+SHOP 
+BUSINESS & NATIONAL SOLUTIONS
+HOME
+SUBSCRIPTIONS
+CORPORATE GIFTING
+HOLIDAY
+Home Subscriptions
+Floral arrangements tailored to your style and space starting at $75. Select your preferred size, color palette, delivery cadence, and let us handle the rest. Check out our packages below and submit an inquiry today.
+OPTIONS
+SEASONAL
+The freshest designer's choice seasonal blooms, arranged beautifully in a clear vase.
+
+SIZE OPTIONS
+Signature - $75
+Grand - $125
+Luxe - $175
+CLASSIC WHITES
+Clean, crisp & classic white blooms arranged beautifully in a clear glass vase.
+DELIVERY OPTIONS
+Weekly
+Biweekly
+Monthly
+GET STARTED!
+
+Farben: #3d4246 #f5f5f5 #000 #fff
+
+ont-family: 'Libre Caslon Display', serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Open Sans Condensed', sans-serif; */
+
+body {
+    font-family: 'Libre Caslon Display', serif;
+    text-align: center;
+    margin: 0;
+}
+h1{
+font-size: 60px;
+margin: 0;
+margin-bottom: 20px;
+font-family: 'Libre Caslon Display', serif;
+
+}
+.ul1 , nav li{
+    display: inline;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30px;
+    margin: 10px;
+    
+}
+.h1{
+    margin-top: 10vh;
+    
+}
+.li1{
+    text-decoration: underline;
+}
+.p1{
+    display: inline-block;
+    font-size: 20px;
+    
+    width: 90vh;
+    font-family: 'Open Sans', sans-serif;
+
+}
+nav img{
+    height: 40vh;
+    margin-bottom: 10vh;
+}
+table{
+    
+    margin-left: 30vh;
+    margin-right:30vh ;
+    
+    
+
+}
+ td{
+    padding: 20px;
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+th{
+    letter-spacing: 3px;
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 30px;
+}
+nav a{
+    padding: 10px 20vh;
+    color:#f5f5f5 ;
+    background-color: #3d4246;
+    font-family: 'Libre Caslon Display', serif;
+    letter-spacing: 10px;
+    font-size: 15px;
+    text-decoration: none;
+
+}
+.h2{
+    margin-bottom: 8vh;
+}
+section{
+    margin-top: 10vh;
+}
+section img{
+    width: 130vh;
+}
+section div{
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin:  3vh 18vh;
+    
+}
+section ul{
+    text-align: left;
+    margin-left: 15vh;
+    
+}
+section li{
+    display: inline;
+    margin-right: 10vh;
+    font-size: 20px;
+    color: black;
+    
+}
+section li a{
+    color: black;
+    text-decoration: none;
+}
